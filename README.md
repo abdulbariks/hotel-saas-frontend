@@ -89,3 +89,4 @@ See the [backend README](../hotel-saas-backend/README.md) for the full endpoint 
 | `GET/POST /tenants` | Hotels page, tenant switcher |
 | `GET/POST/PATCH/DELETE /rooms` | Rooms page, booking form |
 | `GET/POST /bookings`, `PATCH /bookings/:id/cancel` | Bookings page, dashboard |
+
